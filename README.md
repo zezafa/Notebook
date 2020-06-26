@@ -5,4 +5,4 @@ Before:
 ![alt text](<Unprocessed_IMG/Kvadratiske Matricer/1.png>)
 
 After:
-![alt text](<KvadratiskeMatrix.pdf>)
+![alt text](<Processed_IMG.png>)
