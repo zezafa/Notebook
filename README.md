@@ -1,4 +1,4 @@
-# Notebook
+# Notebook (2015)
 > Convert classroom chalkboard images to crisp and sharp PDF ready to share with your classmates.
 
 Computer Vision applied project using adaptive threshold filtering.
