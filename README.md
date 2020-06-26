@@ -1,10 +1,11 @@
 # Notebook
 > Convert classroom chalkboard images to crisp and sharp PDF ready to share with your classmates.
+
 Computer Vision applied project using adaptive threshold filtering.
-Created during studies at Technical University of Denmark. 
+Created during studies at Technical University of Denmark. A demo of final output of pdf notes is attached "KVadratiskeMatrix.pdf"
 
 _Prerequisites_:
-* OpenCV (cv2)
+* OpenCV 
 * Reportlab
 
 ## Before:
